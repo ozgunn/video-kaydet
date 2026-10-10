@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Kaydet</string>
+    <string name="saved_one">Video indirildi</string>
+    <string name="saved_many">%1$d video indirildi</string>
+    <string name="saved_partial">%1$d video indirildi, %2$d kaydedilemedi</string>
+
+    <string name="howto">Instagram, X (Twitter) veya WhatsApp\'ta bir gönderiyi paylaşırken bu uygulamayı seç. Gönderi bağlantısından videoyu bulup İndirilenler klasörüne kaydeder.</string>
+    <string name="no_session">X (Twitter) gönderileri çerez gerektirmez. Instagram gönderileri için oturum gerekiyor.</string>
+    <string name="session_ok">Instagram oturumu kayıtlı.</string>
+
+    <string name="login">Instagram\'da giriş yap</string>
+    <string name="login_done">Giriş tamam</string>
+    <string name="login_ok">Oturum kaydedildi</string>
+    <string name="login_failed">Oturum bulunamadı. Önce giriş yapıp sonra tekrar bas.</string>
+    <string name="login_first">Önce Instagram\'da giriş yap.</string>
+    <string name="test">Oturumu test et</string>
+    <string name="testing">Instagram bağlantısı deneniyor…</string>
+
+    <string name="err_generic">Video kaydedilemedi.</string>
+    <string name="err_nothing">Paylaşılan içerikten video bulunamadı.</string>
+    <string name="err_share">Paylaşılan içerik okunamadı.</string>
+    <string name="log_hint">Ayrıntı: İndirilenler/videokaydet-hata.txt</string>
+</resources>
